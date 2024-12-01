@@ -1,0 +1,6 @@
+{
+    "deno.enable": true,
+    "deno.enablePaths": [
+        "problem_set1/solution1"
+    ]
+}
